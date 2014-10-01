@@ -1,0 +1,19 @@
+{
+  "name": "change-case-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "change-case": "^2.1.5",
+    "commander": "^2.3.0"
+  },
+  "bin": {
+    "change-case": "main.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
